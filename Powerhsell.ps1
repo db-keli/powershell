@@ -1,2 +1,4 @@
 #First Powerhsell 
-Write-Host "Hello, world!"
+$Name = Read-Host 'What is Your name'
+
+Write-Host "Welcome to earth, $Name"
